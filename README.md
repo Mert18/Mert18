@@ -2,7 +2,7 @@
 
 *Learning web development for over one year.*
 
-*I dedicated myself to learn necessary technologies and tools to be a full stack developer.*
+*I have dedicated myself to learn necessary technologies and tools to be a full stack developer.*
 
 *I enjoy making websites and applications*
 
