@@ -6,4 +6,4 @@
 
 *I enjoy making websites and applications*
 
-Currently learning **React.js**, **Node.js**
+Currently learning **React.js**, **Node.js** and **Next.js**
