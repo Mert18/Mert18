@@ -8,7 +8,4 @@
 
 <p align="center"><a href="https://www.linkedin.com/in/mert-u-8248ab135/">LinkedIn</a></p>
 
-<p align="center"> 
-<img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mert18&theme=vue" />
-<img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mert18&theme=vue" />
 </p>
