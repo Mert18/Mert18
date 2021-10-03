@@ -8,7 +8,7 @@
 
 <p align="center"><a href="https://www.linkedin.com/in/mert-u-8248ab135/">LinkedIn</a></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mert18&theme=gruvbox" />
-</a>
+<p align="center">
+  <img alt="mert18 github stats" src="https://github-readme-stats.vercel.app/api?username=mert18&theme=gruvbox" />
+</p>
 
