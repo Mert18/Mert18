@@ -11,6 +11,3 @@
 <p align="center">
   <img alt="mert18 github stats" src="https://github-readme-stats.vercel.app/api?username=mert18&theme=gruvbox" />
 </p>
-<p align="center">
-  <img alt="mert18 most used languages graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert18&theme=gruvbox" />
-  </p>
