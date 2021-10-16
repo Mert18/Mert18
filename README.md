@@ -5,7 +5,7 @@
 <p align="center">I love building applications with React.js, Next.js, Node.js and Typescript.</p>
 
 <p align="center">I'm currently learning</p>
-<p align="center">PostgreSQL, PHP, Networking</p>
+<p align="center">Cpp, SQL, NETWORKING</p>
 
 <p align="center"><a href="https://www.linkedin.com/in/mert-u-8248ab135/">LinkedIn</a></p>
 <p align="center"><a href="https://www.hackerrank.com/mertuygur02">Hackerrank</a></p>
