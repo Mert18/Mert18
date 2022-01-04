@@ -32,3 +32,7 @@ what I am learning || want to learn in the near future
 <p align="center">
   <img alt="mert18 github stats" src="https://github-readme-stats.vercel.app/api?username=mert18&theme=gruvbox" />
 </p>
+
+```
+How we spend our days is, of course, how we spend our lives. -Annie Dillard
+```
