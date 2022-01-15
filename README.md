@@ -29,9 +29,19 @@ what I am learning || want to learn in the near future
 <p align="center"><a href="https://www.linkedin.com/in/mert-u-8248ab135/">LinkedIn</a></p>
 <p align="center"><a href="https://www.hackerrank.com/mertuygur02">Hackerrank</a></p>
 
+
 <p align="center">
-  <img alt="mert18 github stats" src="https://github-readme-stats.vercel.app/api?username=mert18&theme=gruvbox" />
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=mert18&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 </p>
+  
+  <p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=mert18&include_all_commits=true&hide_border=true&theme=dark"/>
+  </p>
+  
+  <p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert18&layout=compact&custom_title=Most used languages by LOCs&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+  </p>
+  
 
 ```
 How we spend our days is, of course, how we spend our lives. -Annie Dillard
