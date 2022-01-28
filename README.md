@@ -36,9 +36,6 @@ What I am learning or want to learn in the near future
 <p align="center">
 </p>
   
-<p align="center">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert18&layout=compact&custom_title=Most used languages by LOCs&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
-</p>
   
 ```
 How we spend our days is, of course, how we spend our lives. -Annie Dillard
