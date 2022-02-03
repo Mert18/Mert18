@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mert.</h1>
 
 <h2 align="center">https://merd.dev/</h2>
-<p align="center">Full Stack Developer.</p>
+<p align="center">Frontend Developer.</p>
 
 What I claim to know
 
