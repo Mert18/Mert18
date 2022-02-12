@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mert.</h1>
 
 <h2 align="center">https://merd.dev/</h2>
-<p align="center">Front End Engineer.</p>
+<p align="center">Software Engineer.</p>
 
 What I am interested in
 
