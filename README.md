@@ -45,6 +45,7 @@
   - [x] Server Side Rendering (SSR)
   - [x] Using built in API service or using external APi services in Next.js
   - [x] [Hachiko Dictionary](https://github.com/Mert18/hachiko-dictionary) - [Portfolio Website](https://github.com/Mert18/merd-dev) - [Happiness Record](https://github.com/Mert18/happiness-record-client)
+
 <br />
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -66,12 +67,16 @@
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
   - [x] I know the basics, differences with RESTful APIs and why we need it.
-  - [x] [Kitaplardan Server](https://github.com/Mert18/kitaplardan-server) 
+  - [x] [Kitaplardan Server](https://github.com/Mert18/kitaplardan-server)
+
+<br />
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
   - [x] Usually I implement the authentication and authorization logic myself.
   - [x] I have experience with OAuth.
-  - [x] [Auth Example in NodeJS](https://github.com/Mert18/nodejs-mongodb-auth)
+  - [x] [Auth Example in NodeJS](https://github.com/Mert18/nodejs-mongodb-auth) - [Happiness Record](https://github.com/Mert18/happiness-record-server)
+
+<br />
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   - [x] Using Git Bash in everyday life.
@@ -101,7 +106,7 @@
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-
+<br />
 
 <h3>Planning to learn in the near future</h3>
 
