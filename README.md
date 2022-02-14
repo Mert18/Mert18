@@ -15,15 +15,12 @@
 <h3>Technologies and Tools</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  - [x] Semantics
-  - [x] [Frontend Mentor Challenge 1](https://github.com/Mert18/fm-sunnyside-agency-landing) 
-
-<br />
-  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  - [x] HTML Semantics
   - [x] Some knowledge in TailwindCSS
   - [x] Previously worked with SCSS.
   - [x] I am confident with Grid and Flexbox layout principles.
+  - [x] [Frontend Mentor Challenge 1](https://github.com/Mert18/fm-sunnyside-agency-landing) - [FM Challenge 2](https://github.com/Mert18/fm-time-tracking-dashboard) - [FM Challenge 3](https://github.com/Mert18/fm-order-summary-component) - [FM Challenge 4](https://github.com/Mert18/fm-blogr-landing-page) - [FM Challenge 5](https://fm-stats-preview-card-delta.vercel.app/)
 
 <br />
 
@@ -39,14 +36,12 @@
 <br />
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   - [x] Using JSX in almost all of my projects.
   - [x] Hooks knowledge, able to create custom hooks.
   - [x] State Management (Context, Redux).
   - [x] Portals, DOM. 
 
-<br />
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   - [x] Server Side Rendering (SSR)
   - [x] Using built in API service or using external APi services in Next.js
   - [x] [Hachiko Dictionary](https://github.com/Mert18/hachiko-dictionary) - [Portfolio Website](https://github.com/Mert18/merd-dev) - [Happiness Record](https://github.com/Mert18/happiness-record-client)
@@ -60,14 +55,11 @@
 <br />
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   - [x] My choice most of the time.
   - [x] Differences between SQL and NoSQL databases.
   - [x] Document based storing, relationships between collections in NoSQL databases.
   - [x] [Happiness Record](https://github.com/Mert18/happiness-record-server) - [Hachiko Dictionary](https://github.com/Mert18/hachiko-dictionary-server)
-
-<br />
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   - [x] Basic SQL knowledge, able to write basic SQL queries.
 
 <br />
