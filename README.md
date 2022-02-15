@@ -6,10 +6,8 @@
 <p align="center">
   <b>Me Elsewhere</b><br>
   <a href="https://www.linkedin.com/in/mert-u-8248ab135/">Linkedin</a> |
-  <a href="https://merd.dev/">Website</a> |
+  <a href="https://www.frontendmentor.io/profile/Mert18">Frontend Mentor</a> |
   <a href="https://www.hackerrank.com/mertuygur02">Hackerrank</a>
-  <br><br>
-  <img src="https://media1.giphy.com/media/dUHdTk3tvry9NETa67/giphy.gif?cid=790b7611875e7bfdd8745dbe5b185e6972e53cca61939c73&rid=giphy.gif&ct=g">
 </p>
 
 <h3>Technologies and Tools</h3>
