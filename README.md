@@ -6,7 +6,7 @@
 <p align="center">
   <b>Me Elsewhere</b><br>
   <a href="https://www.linkedin.com/in/mert-u-8248ab135/">Linkedin</a> |
-  <a href="https://www.frontendmentor.io/profile/Mert18">FEM</a> |
+  <a href="https://www.frontendmentor.io/profile/Mert18">FE Mentor</a> |
   <a href="https://www.hackerrank.com/mertuygur02">Hackerrank</a>
 </p>
 
