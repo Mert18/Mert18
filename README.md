@@ -15,15 +15,14 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   - [x] HTML Semantics
-  - [x] Some knowledge in TailwindCSS
-  - [x] Previously worked with SCSS.
+  - [x] TailwindCSS, SCSS.
   - [x] I am confident with Grid and Flexbox layout principles.
   - [x] [Frontend Mentor Challenge 1](https://github.com/Mert18/fm-sunnyside-agency-landing) - [FM Challenge 2](https://github.com/Mert18/fm-time-tracking-dashboard) - [FM Challenge 3](https://github.com/Mert18/fm-order-summary-component) - [FM Challenge 4](https://github.com/Mert18/fm-blogr-landing-page) - [FM Challenge 5](https://fm-stats-preview-card-delta.vercel.app/)
 
 <br />
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  - [x] Generally adopted functional components.
+  - [x] I generally adopted functional components.
   - [x] I solve [Hackerrank](https://www.hackerrank.com/mertuygur02) Problem Solving Challenges in Javascript.
 
 <br />
@@ -39,15 +38,13 @@
   - [x] Hooks knowledge, able to create custom hooks.
   - [x] State Management (Context, Redux).
   - [x] Portals, DOM. 
-
-  - [x] Server Side Rendering (SSR)
+  - [x] Server Side Rendering (SSR) in Next.js.
   - [x] Using built in API service or using external APi services in Next.js
   - [x] [Hachiko Dictionary](https://github.com/Mert18/hachiko-dictionary) - [Portfolio Website](https://github.com/Mert18/merd-dev) - [Happiness Record](https://github.com/Mert18/happiness-record-client)
 
 <br />
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  - [x] Using NodeJS whenever I need a backend for my applications.
   - [x] Express.js framework.
   - [x] [Happiness Record](https://github.com/Mert18/happiness-record-server) - [Hachiko Dictionary](https://github.com/Mert18/hachiko-dictionary-server)
 
@@ -63,11 +60,6 @@
 
 <br />
 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  - [x] I know the basics, differences with RESTful APIs and why we need it.
-  - [x] [Kitaplardan Server](https://github.com/Mert18/kitaplardan-server)
-
-<br />
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
   - [x] Usually I implement the authentication and authorization logic myself.
@@ -82,29 +74,20 @@
 
 <br />
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-  - [x] Familiar with the tools. Used once; Confluence, Bitbucket
-
-<br />
-
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  - [x] Usually before I start the coding, I make sketches in Figma, I am familiar with component driven design in Figma.
-
-<br />
-
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-  - [x] Lower Intermediate level.
+  - [x] I use frequently.
 
 <br />
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  - [x] Using Ubuntu for personal use. May not be familiar with user management and remote access.
+  - [x] Using Ubuntu in my everyday life.
 
 <br />
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-<br />
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 
 <h3>Planning to learn in the near future</h3>
 
