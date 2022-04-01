@@ -6,7 +6,8 @@
   
 <p align="center">
 </p>
-  
+
+Please contact me on [Linked in](https://www.linkedin.com/in/mert-u-8248ab135/)
   
 ```
 How we spend our days is, of course, how we spend our lives. -Annie Dillard
