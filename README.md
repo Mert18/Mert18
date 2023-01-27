@@ -1,4 +1,4 @@
-<h2 align="left"><b>Software Engineer</b></h2>
+<h2 align="left"> ❇️ <b>Software Engineer</b></h2>
 
 <ul>
   <li>I have a strong background in OOP Principles.</li>
