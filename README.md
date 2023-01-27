@@ -8,7 +8,7 @@
 
 <p align="left">Currently, I am deepening my knowledge in ⚓ <b>Kubernetes</b> and automated systems.</p>
 
-<p align="left">Planning to learn 🐭 <b>Golang</b> in the near future.</p>
+<p align="left">Planning to learn ➿ <b>Golang</b> in the near future.</p>
 
 ### <div align="left">Backend  </div>
 <div align="left">  
