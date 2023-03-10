@@ -13,7 +13,7 @@
 ### <div align="left">Backend  </div>
 <div align="left">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" alt="Spring" height="50" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://www.bizcommits.com/images/spring/spring-banner.png" alt="Spring" height="50" /></a>
 <a href="https://quarkus.io/" target="_blank"><img style="margin: 10px" src="https://design.jboss.org/quarkus/logo/final/PNG/quarkus_icon_rgb_128px_default.png" alt="Quarkus" height="50" /></a>
 <a href="https://www.keycloak.org/" target="_blank"><img style="margin: 10px" src="https://design.jboss.org/keycloak/logo/images/keycloak_icon_128px.png" alt="Keycloak" height="50" /></a>
 <a href="https://kogito.kie.org/get-started/" target="_blank"><img style="margin: 10px" src="https://design.jboss.org/kogito/logo/final/PNG/kogito_icon_rgb_color_default_128px.png" alt="Kogito" height="50" /></a>
