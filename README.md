@@ -1,9 +1,9 @@
 <h2 align="left"> ❇️ <b>Software Engineer</b></h2>
 
 <ul>
-  <li>I have a strong background in <b>OOP Principles</b> and <b>Design Patterns</b>.</li>
+  <li>I have a strong background on <b>OOP Principles</b> and <b>Design Patterns</b>.</li>
   <li><b>Java</b> Backend Development</li>
-  <li>Fundemental knowledge in ⚓ <b>Kubernetes</b> and automated systems.</li>
+  <li>Fundemental knowledge on ⚓ <b>Kubernetes</b> and automated systems.</li>
 </ul>
 
 <p align="left">Currently, I am deepening my knowledge in ⚓ <b>Kubernetes</b> and automated systems.</p>
