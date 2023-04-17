@@ -18,6 +18,7 @@
 <a href="https://www.keycloak.org/" target="_blank"><img style="margin: 10px" src="https://design.jboss.org/keycloak/logo/images/keycloak_icon_128px.png" alt="Keycloak" height="50" /></a>
 <a href="https://kogito.kie.org/get-started/" target="_blank"><img style="margin: 10px" src="https://design.jboss.org/kogito/logo/final/PNG/kogito_icon_rgb_color_default_128px.png" alt="Kogito" height="50" /></a>
 <a href="https://infinispan.org/" target="_blank"><img style="margin: 10px" src="https://design.jboss.org/infinispan/logo/final/PNG/infinispan_icon_rgb_lightbluewhite_128px.png" alt="Infinispan" height="50" /></a>
+<a href="https://nodejs.org/en" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/40024436/232581097-18c23832-5467-4ed0-9864-191ba0b3682f.png" alt="Node.js" height="50" /></a>
 </div>
 
 ### <div align="left">DevOps  </div>
