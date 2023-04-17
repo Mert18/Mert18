@@ -2,7 +2,7 @@
 
 <ul>
   <li>I have a strong background on <b>OOP Principles</b> and <b>Design Patterns</b>.</li>
-  <li><b>Java</b> & <b>Javascript</b> Backend Development</li>
+  <li><b>Java</b> & <b>Javascript</b> Web Development</li>
   <li>Fundemental knowledge on ⚓ <b>Kubernetes</b> and automated systems.</li>
 </ul>
 
