@@ -1,13 +1,9 @@
 <h2 align="left"> ❇️ <b>Software Engineer</b></h2>
 
 <ul>
-  <li>I have a strong background on <b>OOP Principles</b> and <b>Design Patterns</b>.</li>
   <li><b>Java</b> & <b>Javascript</b> Web Development</li>
   <li>Fundemental knowledge on ⚓ <b>Kubernetes</b> and automated systems.</li>
-  <li>I prefer composition over inheritence.</li>
 </ul>
-
-<p align="left">Currently, I am deepening my knowledge on <b>Spring Boot</b> and <b>Spring Cloud</b>.</p>
 
 <p align="left">Planning to learn <b>Kotlin</b> in the near future.</p>
 
