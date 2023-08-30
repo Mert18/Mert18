@@ -2,7 +2,7 @@
 
 <ul>
   <li><b>Java</b> & <b>Javascript</b> Web Development</li>
-  <li>Fundemental knowledge on ⚓ <b>Kubernetes</b> and automated systems.</li>
+  <li>Cloud Systems, Kubernetes.</li>
 </ul>
 
 <p align="left">Planning to learn <b>Kotlin</b> in the near future.</p>
