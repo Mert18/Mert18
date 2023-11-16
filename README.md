@@ -5,7 +5,7 @@
   <li>Cloud Systems, Kubernetes.</li>
 </ul>
 
-<p align="left">Planning to learn <b>Kotlin</b> in the near future.</p>
+<p align="left">Planning to learn <b>Golang</b> and <b>Kotlin</b> in the near future.</p>
 
 <div align="left">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
