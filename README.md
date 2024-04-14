@@ -5,6 +5,8 @@
   <li>Cloud Systems, Kubernetes.</li>
 </ul>
 
+[Contact me via Linkedin](https://www.linkedin.com/in/mert-u-8248ab135/)
+
 <div align="left">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://www.bizcommits.com/images/spring/spring-banner.png" alt="Spring" height="50" /></a>
